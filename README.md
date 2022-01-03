@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Basavarajrp
-- 👀 I’m interested in Python, ML..
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in Python, Javascript..
+- 🌱 I’m currently working on Web technologies.
 - 📫 How to reach me: basavarajrp4444@gmail.com, https://www.linkedin.com/in/basavaraj-patil-56137017a/, +91-9663924094
